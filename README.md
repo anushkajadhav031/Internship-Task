@@ -51,3 +51,22 @@ Cleaned version of the employee dataset — all missing values addressed, format
 
 ### 6. cleaned_customer_data.csv
 Final cleaned customer transaction dataset — ready for analysis and machine learning applications.
+
+### 7. eda_employee_dataset.csv (NEW)
+
+This dataset is designed for Exploratory Data Analysis (EDA) and contains rich employee-level information suitable for workforce analytics.
+Columns:
+- Employee ID: Unique identifier for each employee  
+- Age: Age in years  
+- Gender: Male/Female  
+- Department: Department name (e.g., HR, Sales)  
+- Location: City where the employee works  
+- Experience: Total years of experience  
+- Salary: Annual salary in USD  
+- Score: Performance or evaluation score  
+
+Purpose:  
+- Analyze demographics (age, gender, department distribution)  
+- Compare salary across departments, cities, and experience levels  
+- Explore relationships between performance scores, salary, and experience  
+- Investigate potential gender or location-based disparities
